@@ -1,0 +1,15 @@
+$blue: #0F5FA3;
+$gray: #CDCDCD;
+
+body {
+	font-family: 'Open Sans';
+	font-weight: 400;
+
+	background-color: $gray;
+
+	.ui.grid .header.title {
+		text-align: center;
+		font-size: 17em;
+		color: $blue;
+	}
+}

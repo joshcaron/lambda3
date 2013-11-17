@@ -1,0 +1,8 @@
+body {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  background-color: #cdcdcd; }
+  body .ui.grid .header.title {
+    text-align: center;
+    font-size: 17em;
+    color: #0f5fa3; }
